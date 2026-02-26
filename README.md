@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,50:ff9ecf,100:87cefa&height=120&section=header&animation=fadeIn"/>
+
 ## ✨ Welcome to my digital space
 
 ![](github-header-banner.png)
@@ -22,11 +24,6 @@ Here are some ideas to get you started: -->
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ilma003/Ilma003/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ilma003/Ilma003/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 🎧 Let’s Connect on Spotify
 
@@ -34,8 +31,14 @@ Here are some ideas to get you started: -->
   <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40"/>
 </a>
 
-## 🌸 My GitHub Universe
 
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🌸%20My%20GitHub%20Universe%20🌸&fontSize=60&fontAlign=50&fontColor=ffffff&animation=twinkling&color=0:f8c8dc,100:87cefa"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6D9&height=3"/>
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ilma003&show_icons=true&hide_border=true&border_radius=25&bg_color=0,243b55,517fa4&title_color=ffb6d9&icon_color=ffb6d9&text_color=ffffff" height="170"/>
@@ -45,3 +48,5 @@ Here are some ideas to get you started: -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ilma003&hide_border=true&border_radius=25&background=243b55&ring=ffb6d9&fire=ffb6d9&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,50:ff9ecf,100:87cefa&height=120&section=footer&animation=fadeIn"/>
