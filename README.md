@@ -2,7 +2,7 @@
 
 ## ✨ Welcome to my digital space
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6D9&height=3"/>
-<div align="center">
+<div align="left">
 
 ![](github-header-banner.png)
 
