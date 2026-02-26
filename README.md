@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,50:ff9ecf,100:87cefa&height=120&section=header&animation=fadeIn"/>
 
 ## ✨ Welcome to my digital space
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6D9&height=3"/>
+<div align="center">
 
 ![](github-header-banner.png)
 
@@ -26,6 +28,8 @@ Here are some ideas to get you started: -->
 
 
 ## 🎧 Let’s Connect on Spotify
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6D9&height=3"/>
+<div align="left">
 
 <a href="https://open.spotify.com/user/Mabuchiii" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40"/>
