@@ -30,6 +30,6 @@ Here are some ideas to get you started: -->
 
 ## 🎧 Let’s Connect on Spotify
 
-<a href="https://open.spotify.com/user/ponyo" target="_blank">
+<a href="https://open.spotify.com/user/Mabuchiii" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40"/>
 </a>
