@@ -1,4 +1,4 @@
-## Hi there, I'm Ilma Mahmudah👋
+## ✨ Welcome to my digital space
 
 ![](github-header-banner.png)
 
@@ -33,3 +33,15 @@ Here are some ideas to get you started: -->
 <a href="https://open.spotify.com/user/Mabuchiii" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40"/>
 </a>
+
+## 🌸 My GitHub Universe
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ilma003&show_icons=true&hide_border=true&border_radius=25&bg_color=0,243b55,517fa4&title_color=ffb6d9&icon_color=ffb6d9&text_color=ffffff" height="170"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ilma003&layout=compact&hide_border=true&border_radius=25&bg_color=0,243b55,517fa4&title_color=ffb6d9&text_color=ffffff" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ilma003&hide_border=true&border_radius=25&background=243b55&ring=ffb6d9&fire=ffb6d9&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
+
+</div>
