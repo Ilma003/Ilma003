@@ -7,14 +7,14 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on web development projects and C++ programming assignments (queue, sorting, and file handling systems).
+- 🌱 I’m currently learning Laravel, frontend UI/UX design, and data structures & algorithms.
+- 👯 I’m looking to collaborate on web apps, tech projects, and creative IT innovations.
+- 🤔I’m looking for help with improving my coding skills and building clean, professional portfolio projects.
+- 💬 Ask me about web development, C++, basic networking, or anything about being an IT student!
+- 📫 How to reach me: Instagram @ilmaassh_
+- 😄 Pronouns: She/Her
+- ⚡ I’m an introvert who becomes extroverted with close friends and I love bitter espresso without sugar ☕
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilma003/Ilma003/output/pacman-contribution-graph-dark.svg">
@@ -27,3 +27,4 @@ Here are some ideas to get you started: -->
 <img src="https://raw.githubusercontent.com/Ilma003/Ilma003/output/snake.svg" alt="Snake animation" />
 
 ###
+
